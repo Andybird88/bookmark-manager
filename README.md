@@ -5,6 +5,11 @@ As a user
 I want to see a list of bookmarks
 So that I can access my favourite website easily
 
+Second User Story
+As a user
+I want to be able to add bookmarks
+So that I can store and retrieve later
+
 
 ![Domain Model for Bookmark challenge](https://github.com/tatiananantes/bookmark-manager/blob/main/images/domain_model.png)
 
