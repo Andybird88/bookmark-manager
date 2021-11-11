@@ -1,5 +1,5 @@
 require 'pg'
-#this is a test comment for checking git push has worked
+
 class Bookmark
 
   def self.all
